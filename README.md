@@ -26,3 +26,8 @@
   <a href="https://www.linkedin.com/in/eulucasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+[![Estatísticas Github de Lucas](https://github-readme-stats.vercel.app/api?username=eulucasilva&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/eulucasilva/github-readme-stats)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
